@@ -1,0 +1,16 @@
+===========================================================================
+  Config                            Stopped       Peak      Final  Patience
+---------------------------------------------------------------------------
+  Exp5_CNN_1000_Improved                 50     48.76%     48.35%         3
+    Adaptive Threshold: 1.500, Improvements: True
+  Exp5_CNN_1000_Original                 20     46.67%     46.67%         3
+    Adaptive Threshold: 3.000, Improvements: False
+  Exp5_CNN_5000_Improved                 50     66.42%     65.78%         5
+    Adaptive Threshold: 1.500, Improvements: True
+  Exp5_CNN_5000_Original                 15     61.52%     61.52%         3
+    Adaptive Threshold: 3.000, Improvements: False
+  Exp5_ResNet_1000_Improved              50     51.72%     47.37%         3
+    Adaptive Threshold: 1.500, Improvements: True
+  Exp5_ResNet_1000_Original              50     50.66%     47.30%         3
+    Adaptive Threshold: 3.000, Improvements: False
+===========================================================================
